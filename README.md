@@ -1,2 +1,2 @@
 # meipaly
-link deploy: lehuynhqui-meipaly.vercel.app
+link deploy: https://lehuynhqui-meipaly.vercel.app/
